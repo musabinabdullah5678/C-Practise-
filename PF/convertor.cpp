@@ -1,3 +1,4 @@
+// Converts Seconds into minutes,hours,days,weeks,months and years
 #include<iostream>
 using namespace std;
 int main  (){
